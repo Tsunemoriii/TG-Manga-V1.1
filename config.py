@@ -20,8 +20,3 @@ FORCE_CHANNEL_ID = -1001514116490   # channel id
 
 DB_URL = "mongodb+srv://utahakane003:utahakane003@cluster0.xyoubmt.mongodb.net/?retryWrites=true&w=majority"     # database url
 DB_NAME = "MangaReqDB"    # database name
-API_ID = "25697264"
-API_HASH = "fc1bce8441f3c90b719bc86098137a3d"
-BOT_TOKEN = "5179913360:AAFwC8igG3hhcWNclnmDxntS-rdJFK9iCTI"
-CHANNEL = "Sonic_Otakus"
-DATABASE_URL_PRIMARY = "postgres://nmudsxqm:rNHvqk6zK4C9SftNfxIzFpE9ReuHEg5c@peanut.db.elephantsql.com/nmudsxqm"
